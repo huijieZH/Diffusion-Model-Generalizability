@@ -17,6 +17,7 @@ image attributes) in [Paper 2](https://arxiv.org/abs/2409.02426), please go thro
 
 ```bash
 conda env create -f edm/environment.yml -n generalizability
+conda activate generalizability
 ```
 
 ## "Memorization" and "Generalization" regimes for unconditional diffusion models. 
